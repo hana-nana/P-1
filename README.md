@@ -1,4 +1,4 @@
-# 🤗 Welcome !! AJOU BEGINNER
+# 🤗 Welcome !! BEGINNER
 
 <div align=center>
 
@@ -13,7 +13,7 @@
 ## 🧑🏻‍💻 Introduce
 
 안녕하세요, 소프트웨어학과 16학번 **[jin-Pro](https://github.com/jin-Pro)** 입니다. <br/>
-아주대학교 학생들을 위한 웹 풀스택 스터디입니다. <br/>
+대학생들을 위한 웹 풀스택 스터디입니다. <br/>
 22년 1월 총 30명의 학생들이 참여하였으며 <br/>
 총 4주간 2번의 프로젝트가 진행됩니다. <br/>
 모두 무난하게 수료하시길 기원합니다. <br/>
